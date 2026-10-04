@@ -1,6 +1,6 @@
 module github.com/xtls/xray-core
 
-go 1.26
+go 1.26.0
 
 require (
 	github.com/apernet/quic-go v0.59.1-0.20260217092621-db4786c77a22
@@ -22,7 +22,7 @@ require (
 	golang.org/x/exp v0.0.0-20240506185415-9bf2ced13842
 	golang.org/x/net v0.52.0
 	golang.org/x/sync v0.20.0
-	golang.org/x/sys v0.42.0
+	golang.org/x/sys v0.48.0
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2
 	golang.zx2c4.com/wireguard v0.0.0-20250521234502-f333402bd9cb
 	google.golang.org/grpc v1.79.3
